@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "WesabiMarket",
+    "slug": "wesabimarket",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.deniscole80.wesabimarket",
+      "versionCode": 2
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+
+        "projectId": "0948a4bf-1f36-4a40-9cd5-3949e344d064"
+      }
+    }
+  }
+}
